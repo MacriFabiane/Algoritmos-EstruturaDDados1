@@ -27,3 +27,6 @@ Tais exercícios abordam os seguintes temas:
 * Algoritimos de Busca e de Ordenação;
 * Recursão.
 
+Útil:
+[Hackerrank](https://www.hackerrank.com/contests/ae22cp-utfpr-pb-2022-s2/challenges)
+[Hackerrank complementar](https://www.hackerrank.com/contests/ae22cp-utfpr-pb/challenges)
