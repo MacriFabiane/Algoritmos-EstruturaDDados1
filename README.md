@@ -1,4 +1,4 @@
-## Algoritimos e Estruturas de Dados 1, 2022/2
+## Algoritmos e Estruturas de Dados 1, 2022/2
 
 Neste repositório estão contidos os exercícios e anotações de aulas feitos por mim, durante o 2º período de Engenharia de Computação.
 Nele estão as seguintes pastas:
@@ -24,7 +24,7 @@ Tais exercícios abordam os seguintes temas:
 
 * Pilhas, Filas e Listas Encadedas;
 * Matrizes Esparsas;
-* Algoritimos de Busca e de Ordenação;
+* Algoritmos de Busca e de Ordenação;
 * Recursão.
 
 Útil:
